@@ -1,6 +1,32 @@
 # NoteBook
 
+Preview [note-book](https://note-book.netlify.app/) Challange Code
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.10.
+
+# Times
+
+It took 6 hours
+
+- 2 hours inspirations for design and init the application.
+- 2 hours UI and Logic.
+- the final 2 hours to automated test and unit test && improvements
+
+---
+
+# Structure
+
+- I used the folder structure for models be shared && core have a services.
+- I used the git as folder core/.
+- I used the git cz "git Commitizen" for better commit.
+
+# Tools
+
+- System Design [Google Material Design](https://material.angular.io/).
+- Storage Plugin Webstorage services [ngx-webstorage](https://www.npmjs.com/package/ngx-webstorage-service).
+- Live host [netlify](https://www.netlify.com/);
+- Commit cli [git-cz](https://www.npmjs.com/package/git-cz).
+- Source host [github](http://github.com/)
 
 ## Development server
 
