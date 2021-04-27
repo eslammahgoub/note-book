@@ -17,6 +17,7 @@ It took 6 hours
 # Structure
 
 - I used the folder structure for models be shared && core have a services.
+- There are a screenshot for test && coverage folder for coverage unit test.
 - I used the git as folder core/.
 - I used the git cz "git Commitizen" for better commit.
 
