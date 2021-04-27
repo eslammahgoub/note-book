@@ -1,0 +1,14 @@
+<!-- Top Page -->
+<div id="top"></div>
+
+<!-- Content -->
+<div class="wrapper" role="main">
+  <notebook-header></notebook-header>
+  <notebook-viewer>
+    <notebook-check-text (checkTxtEmit)="saveNote($event)" [currentEntry]="currentEntry?.note"></notebook-check-text>
+    <notebook-word-result [requestedWord]="requestedWord" [counts]="counts" [similarWordsAsString]="similarWordsAsString"></notebook-word-result>
+  </notebook-viewer>
+</div>
+
+<!-- Bottom Page -->
+<div id="bottom"></div>

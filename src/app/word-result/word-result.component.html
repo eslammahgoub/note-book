@@ -1,0 +1,12 @@
+<!-- Result of Processing Component -->
+<div class="wrap">
+  <p *ngIf="requestedWord">
+    {{'When the frequency of the word "'}} <b> {{requestedWord}} </b> {{'" is requested'}}
+  </p>
+  <p *ngIf="counts > 0 && requestedWord">
+    {{"Then the frequency is determined to be " + '"'}} <b>{{counts.toString() + '"'}}</b>
+  </p>
+  <p *ngIf="similarWordsAsString">
+    {{'And the list of similar words is determined to be "'}} <b> {{similarWordsAsString + '"'}} </b>
+  </p>
+</div>
