@@ -17,17 +17,18 @@ It took 6 hours
 # Structure
 
 - I used the folder structure for models be shared && core have a services.
-- There are a screenshot for test && coverage folder for coverage unit test.
-- I used the git as folder core/.
+- There are a screenshot for test && coverage folder for coverage.
+- I used apaths mapper you can find @layout/, @models,... etcs.
+- I used the git as folders core/,... etcs.
 - I used the git cz "git Commitizen" for better commit.
 
 # Tools
 
 - System Design [Google Material Design](https://material.angular.io/).
 - Storage Plugin Webstorage services [ngx-webstorage](https://www.npmjs.com/package/ngx-webstorage-service).
-- Live host [netlify](https://www.netlify.com/);
+- Live host [netlify](https://www.netlify.com/).
 - Commit cli [git-cz](https://www.npmjs.com/package/git-cz).
-- Source host [github](http://github.com/)
+- Source host [github](http://github.com/).
 
 ## Development server
 
