@@ -4,7 +4,7 @@ Preview [note-book](https://note-ebook.netlify.app/) Challange Code
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.10.
 
-# Estimation
+# Estimates
 
 It took 6 hours
 
