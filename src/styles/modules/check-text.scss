@@ -1,0 +1,30 @@
+notebook-check-text {
+  width: $full-block;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+.wrap {
+  max-width: 720px;
+  padding: 4.0rem 3.2rem;
+  width: $full-block;
+
+  .check-text {
+    background: $white;
+    border: 1px solid #e7e9f5;
+    border-radius: 1.6rem;
+    height: 316px;
+    padding: 8px;
+    position: relative;
+    width: $full-block;
+    box-shadow: $z-level1;
+
+    .textarea {
+      background: $white;
+      height: 240px;
+      padding: 12px 13px 32px;
+      width: $full-block;
+    }
+  }
+}
+}

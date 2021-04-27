@@ -1,0 +1,19 @@
+textarea {
+  -moz-box-sizing: border-box;
+    -moz-transition: border .3s;
+    -ms-transition: border .3s;
+    -o-transition: border .3s;
+    -webkit-box-sizing: border-box;
+    -webkit-transition: border .3s;
+    border: none;
+    box-sizing: border-box;
+    height: $full-block;
+    line-height: 27px;
+    margin: 0;
+    outline: none;
+    overflow: auto;
+    resize: none;
+    transition: border .3s;
+    vertical-align: top;
+    width: $full-block;
+}

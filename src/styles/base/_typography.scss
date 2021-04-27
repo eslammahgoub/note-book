@@ -1,0 +1,25 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: $main-font;
+  margin: 0;
+  font-size: 1.6rem;
+}
+
+a {
+  font-family: $code-font;
+}
+
+textarea {
+  font: normal 400 18px/32px $code-font;
+  letter-spacing: -.09px;
+  font-size: 20px;
+  font-weight: 300;
+}
+
+
+button {
+  text-transform: uppercase;
+}
